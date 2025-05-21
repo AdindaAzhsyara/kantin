@@ -19,7 +19,7 @@ $result = mysqli_query($koneksi, $query);
   <title>Kategori Camilan - Kantin Reborn</title>
   <style>
     body {
-      margin: 0;
+      margin: 0976;
       font-family: 'Segoe UI', sans-serif;
       background-color: #fff;
     }
